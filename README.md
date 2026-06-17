@@ -5,7 +5,7 @@ AI-ROBOT
 运行小乌龟节点，进行ros命令行交互
 
 
-<img src="作业.png" alt="作业" width="500">
+<img src="第一周/作业.png" alt="作业" width="500">
 
 
 运行小乌龟节点，进行ros命令行交互
